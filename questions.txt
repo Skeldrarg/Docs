@@ -6,7 +6,7 @@ Italie
 	5.	Comment s'appelle la sculpture ressemblant à un visage muré dans l'église Santa Maria in Cosmedin à Rome ? (Bocca della Verità [Bouche de la vérité])
 	6.	Qui était le fondateur du fascisme ? (Mussolini)
 	7.	Comment s'appellent les barques véniciennes ? (gondoles)
-	8.	Quel film se déroule dans la cité du Vatican ? (Anges & Démons)
+	8.	Quel film datant de 2009 se déroule dans la cité du Vatican ? (Anges & Démons)
 	9.	Quelle est la véritable signification du geste ? (Que se passe-t-il ? Qu'est-ce que tu dis / fais ?)
 	10.	Qui est le Père de la langue Italienne ? (Dante / Pétrarque / Boccace)
 
