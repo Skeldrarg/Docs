@@ -48,8 +48,29 @@ Mythologie grecque
 	9.	Que ne doit surtout pas faire Orphée pour libérer son épouse des enfers ? (Se retourner pour la regarder)
 	10.	Combien y a-t-il de divinités Olympiennes ? (12)
 	
+Fromage
+	1.	Qu'est-ce qu'une croute fleurie ? (Moisissure qui prend la forme d'un duvet blanc)
+	2.	Qui était le principal producteur de fromage en 2019 ? (Les Etats-Unis)
+	3. 	A partir de quel lait est fabriqué le fromage à raclette, et comment doit être ce lait ? (lait cru de vache)
+	4.	De quel pays est originaire le cheddar ? (Angleterre)
+	5.	Quel est le fromage français le plus cher ? (Epoisses à 45 à 50€ le kilo) 
+	6.	Donnez un exemple de fromage à pâte molle et à croûte lavée. (Aisy cendré, Ami du Chambertin, Arrigny, Boulette d'Avesnes, Chamberat fermier, Cœur d'Arras; Curé nantais, Dauphin, Époisses (AOP), Fromage de Herve (AOP), Géromé, Grataron du Beaufortain, Kénogami, Langres fermier (AOC), Livarot (AOC), Maroilles (AOC), Mont d'Or (Vacherin Mont-d'Or en Suisse et Vacherin du Haut Doubs (AOC) en France), Munster (AOC), Niolo, Pavé d'Auge, Petit Gaugry, Pied-De-Vent, Pont-l'évêque (AOC), Rollot, Rouy, Soumaintrain, Taleggio, Trou du Cru, Vieux-lille)
+	7.	Quel genre de fromage faut-il ajouter à la béchamel pour en faire de la sauce Mornay ? (Fromage à pâte dure rapé)
+	8.	Quelle est la particularité du fromage Sarde, Casu martzu ? (Affinage achevé grâce à l'introduction de larves de mouches du fromage)
+	9.	Quel est le pourcentage de matière grasse dans un fromage "triple crème" ? (75%)
+	10.	Quel est le paradoxe du gruyère ? (Plus y a de fromage, moins y a de fromage)
+	
 Cuisine
-	1.
+	1.	
+	2.	
+	3.	
+	4.	
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 
 Histoire
 	1.
@@ -85,7 +106,4 @@ Philosophie
 	1.
 	
 Faune / Flore
-	1.
-	
-Fromage
 	1.
