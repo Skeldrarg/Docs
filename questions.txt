@@ -12,13 +12,13 @@ Italie
 
 Kaamelott
 	1.	Quel dieu représente le médaillon porté par Arthur Pendragon ? (Ogma, dieu de l'éloquence)
-	2.	Loth est le roi de quel pays ? (Orcanie)
-	3.	Qui prononce La Botte secrète pour la première fois ? (Karadok)
+	2.	Qui est le roi de l'Orcanie ? (Loth)
+	3.	Quelle est la botte secrète de Karadok ? (C'est pas faux)
 	4.	Que représente la statue que ramène Guenièvre de Rome ? (Un discobole)
 	5.	Pourquoi le clan des semi-croustillants organise la résistance en souterrain ? (Parce que c'est classe)
 	6.	Comment Arthur réussit à épouser Mevanwi ? (En l'échangeant avec Guenièvre)
 	7.	Quels sont les seuls accords musicaux que Père Blaise supporte ? (Unisson, Quarte, Quinte)
-	8.	Quel personnage collecte les âmes des morts ? (L'Ankou)
+	8.	Quelle est la phrase fétiche du Répurgateur ? (Hérétique au bucher !)
 	9.	Quelle actrice incarne la femme de Bohort ? (Virginie Efira)
 	10.	Quel instrument de musique entend-on au début de chaque épisode de la série ? (Cor)
 	
@@ -27,22 +27,65 @@ Biologie
 	2.	Combien de fibres caudales possède un phage ? (6)
 	3.	En combien de domaines sont classés les êtres vivants ? (3 : bactéries, archées, eucaryotes)
 	4.	Que signifie l'acronyme dNTP ? (désoxyribonucléide triphosphate)
-	5.	Dans quels aliments trouve-t-on de la Méthionine ? (noix du brésil, viande rouge maigre, parmesan et gruyère, viandes blanches, porc, poissons (thon, saumon, maquereau), graines de sésame, soja, oeufs durs, yogourt)
-	6.	Qu'est ce que le sens 5'(prime) vers 3'(prime) ? (sens de synthèse des acides nucléiques par une polymérase. 5' : extrémité de la séquence terminée par un phosphate. 3' : extrémité terminée par un ose, notamment par un groupement OH (hydroxyle))
+	5.	Qu'est ce que la méthionine ? (un acide aminé dit "essentiel", car non synthétisé par l'organisme)
+	6.	Qu'est ce que le sens 5'(prime) vers 3'(prime) ?
+		(sens de synthèse des acides nucléiques par une polymérase.
+		5' : extrémité de la séquence terminée par un phosphate. 3' : extrémité terminée par un ose, notamment par un groupement OH (hydroxyle))
 	7.	Que risque-t-on suite à l'inhalation d'une trop grande quantité de monoxyde de dihydrogène ? (La noyade)
 	8.	Comment le tardigrade réussit-il a survivre en conditions extrêmes ? (état de cryptobiose)
 	9.	Qui a avancé la première théorie de l'évolution du vivant ? (Jean-Baptiste Lamarck en 1809, Darwin proposera une explication scientifique 50 ans plus tard)
 	10.	Comment est appelé l'organisme dont sont issues toutes les espèces vivant actuellement sur Terre ? (LUCA ou DACU)
 	
-Mythologies et religions
-	1.	Quelle est l'origine du monde dans la mythologie nordique ? (Ginnungagap)
-	2.	Citez 3 dieux de la mort. (Ah Puch (maya), Ahriman (Perse), Thanatos / Hadès (Grèce), Anubis (Egypte), Shinigami (Japon), Hel (Nordique), Morrigan (Celte), Ankou (France), Izanami (Japon))
-	3.	Qui dirige les ophanims dans la Kabbale juive ? (L'archange Raziel)
-	4.	De quel élement est constitué l'Efrit ? (de feu)
-	5.	Quels kamis apparaissent lorsque qu'Izanagi se lave le visage ? (Amaterasu (Soleil), Tsukuyomi (Lune), Susanoo (Orage))
-		(résumer l'histoire pour contextualiser)
-	6.	
-	7.	
-	8.		
-	9.	
-	10.	
+Mythologie grecque
+	1.	Qui sont les 3 fils du titan Kronos ? (Zeus, Hadès, Poséidon)
+	2.	Quel est le châtiment de Prométhée ? (Se faire dévoré le foie chaque jour par un aigle)
+	3.	Combien y a-t-il de dieux du temps ? (Chronos, Kairos et Aion)
+	4.	Quel animal est le symbole d'Athéna ? (Chouette)
+	5.	Quel est le deuxième des douzes travaux d'Héraclès ? (L'Hydre de Lerne)
+	6.	De quelle créature arrive à échapper Ulysse en se cachant sous le ventre de ses moutons ? (Un cyclope, Polyphème)
+	7.	Comment Thésée s'échappe du Labyrinthe ? (Avec le Fil d'Ariane)
+	8.	Qui est Priape ? (Un Dieu de la fertilité)
+	9.	Que ne doit surtout pas faire Orphée pour libérer son épouse des enfers ? (Se retourner pour la regarder)
+	10.	Combien y a-t-il de divinités Olympiennes ? (12)
+	
+Cuisine
+	1.
+
+Histoire
+	1.
+
+Chanson
+	1.
+	
+Secourisme
+	1.
+	
+Japon
+	1.
+	
+Pop Culture
+	1.
+	
+Disney
+	1.
+	
+Répliques de films
+	1.
+	
+Logistique
+	1.
+	
+Système Hospitalier
+	1.
+	
+Gestion de projet
+	1.
+	
+Philosophie
+	1.
+	
+Faune / Flore
+	1.
+	
+Fromage
+	1.
