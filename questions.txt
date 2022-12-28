@@ -29,10 +29,11 @@ Biologie
 	4.	Que signifie l'acronyme dNTP ? (désoxyribonucléide triphosphate)
 	5.	Qu'est ce que la méthionine ? (un acide aminé dit "essentiel", car non synthétisé par l'organisme)
 	6.	Qu'est ce que le sens 5'(prime) vers 3'(prime) ?
-		(sens de synthèse des acides nucléiques par une polymérase.
-		5' : extrémité de la séquence terminée par un phosphate. 3' : extrémité terminée par un ose, notamment par un groupement OH (hydroxyle))
+			(sens de synthèse des acides nucléiques par une polymérase.
+			5' : extrémité de la séquence terminée par un phosphate.
+			3' : extrémité terminée par un ose, notamment par un groupement OH (hydroxyle))
 	7.	Que risque-t-on suite à l'inhalation d'une trop grande quantité de monoxyde de dihydrogène ? (La noyade)
-	8.	Comment le tardigrade réussit-il a survivre en conditions extrêmes ? (état de cryptobiose)
+	8.	Combien y a-t-il de couches dans l'épiderme ? (5 : couche cornée, couche granuleuse, couche spineuse, couche basale, membrane basale)
 	9.	Qui a avancé la première théorie de l'évolution du vivant ? (Jean-Baptiste Lamarck en 1809, Darwin proposera une explication scientifique 50 ans plus tard)
 	10.	Comment est appelé l'organisme dont sont issues toutes les espèces vivant actuellement sur Terre ? (LUCA ou DACU)
 	
@@ -54,18 +55,23 @@ Fromage
 	3. 	A partir de quel lait est fabriqué le fromage à raclette, et comment doit être ce lait ? (lait cru de vache)
 	4.	De quel pays est originaire le cheddar ? (Angleterre)
 	5.	Quel est le fromage français le plus cher ? (Epoisses à 45 à 50€ le kilo) 
-	6.	Donnez un exemple de fromage à pâte molle et à croûte lavée. (Aisy cendré, Ami du Chambertin, Arrigny, Boulette d'Avesnes, Chamberat fermier, Cœur d'Arras; Curé nantais, Dauphin, Époisses (AOP), Fromage de Herve (AOP), Géromé, Grataron du Beaufortain, Kénogami, Langres fermier (AOC), Livarot (AOC), Maroilles (AOC), Mont d'Or (Vacherin Mont-d'Or en Suisse et Vacherin du Haut Doubs (AOC) en France), Munster (AOC), Niolo, Pavé d'Auge, Petit Gaugry, Pied-De-Vent, Pont-l'évêque (AOC), Rollot, Rouy, Soumaintrain, Taleggio, Trou du Cru, Vieux-lille)
+	6.	Donnez un exemple de fromage à pâte molle et à croûte lavée. 
+			(Aisy cendré, Ami du Chambertin, Arrigny, Boulette d'Avesnes, Chamberat fermier, Cœur d'Arras; Curé nantais, Dauphin, Époisses (AOP), 
+			Fromage de Herve (AOP), Géromé, Grataron du Beaufortain, Kénogami, Langres fermier (AOC), Livarot (AOC), Maroilles (AOC), 
+			Mont d'Or (Vacherin Mont-d'Or en Suisse et Vacherin du Haut Doubs (AOC) en France), Munster (AOC), Niolo, Pavé d'Auge, Petit Gaugry, Pied-De-Vent, 
+			Pont-l'évêque (AOC), Rollot, Rouy, Soumaintrain, Taleggio, Trou du Cru, Vieux-lille)
 	7.	Quel genre de fromage faut-il ajouter à la béchamel pour en faire de la sauce Mornay ? (Fromage à pâte dure rapé)
 	8.	Quelle est la particularité du fromage Sarde, Casu martzu ? (Affinage achevé grâce à l'introduction de larves de mouches du fromage)
 	9.	Quel est le pourcentage de matière grasse dans un fromage "triple crème" ? (75%)
 	10.	Quel est le paradoxe du gruyère ? (Plus y a de fromage, moins y a de fromage)
 	
 Gastronomie
-	1.	
-	2.	
-	3.	
-	4.	
-	5.	
+	1.	Quelle pâte est utilisée lors de la préparation d'une quiche lorraine ? (pâte brisée)
+	2.	Quel est nom donné au mélange beurre + farine utilisé dans la sauce béchamel ? (roux)
+	3.	Quels légumes sont présents dans un court bouillon ? (carottes et oignon)
+	4.	Donnez 2 élements principaux du "Full Breakfast". 
+			(oeufs, bacon, toasts, haricots blancs à la sauce tomate, galette de pomme de terre, champignons et boudin noir)
+	5.	Dans quel pays a été inventé le chicken tikka massala (Royaume-Uni, dans un restaurant indien de Glasgow)
 	6.	
 	7.	
 	8.	
@@ -73,19 +79,19 @@ Gastronomie
 	10.	
 
 Histoire
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
+	1.	En quel siècle a eu lieu la grande peste noire ? (XIVème)
+	2.	Quel évènment a été le déclencheur de la première guerre mondiale ? (l'assassinat du prince François-Ferdinand d'Autriche)
+	3.	Comment l'empereur Néron est mort ? (Suicide)
+	4.	Quel médecin nazi était connu comme "L'Ange de la Mort" pour avoir pratiqué d'innombrales expériences sur des déportés juifs ? (Josef Mengele)
+	5.	En quelle année a-t-on posé le pied sur la Lune ? (1969)
+	6.	Quel a été le premier pays à accorder le droit de vote aux femmes ? (Nouvelle-Zélande)
+	7.	
 	8.
 	9.
 	10.
 
 Chanson
-	1.
+	1. 
 	2.
 	3.
 	4.
@@ -97,21 +103,24 @@ Chanson
 	10.
 	
 Secourisme
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+	1.	Que signifie l'acronyme DASRI (Déchets d'Activités de Soins à Risque Infectieux)
+	2.	Combien existe-t-il d'échelles de mesure de la douleur ?
+			(5 : verbale simple, numérique, visuelle analogique, les 6 visages, EVENDOL ou hétéroévaluation de la douleur)
+	3.	Lors du "troisième regard", quel principe doit être suivi lors de l'évaluation des fonctions vitales ?
+			(traiter en priorité ce qui tue en premier)
+	4.	Qu'est ce qu'il ne faut surtout pas faire lors de la recherche des lésions sur le bassin d'une victime ?
+			(Palper, pour éviter un déplacement d'éventuelles fractures et aggraver un saignement interne)
+	5.	Au toucher, quel est l'état d'une victime sujette à une détresse circulatoire ? (moite et froide)
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
 Japon
-	1.
-	2.
-	3.
+	1.	Comment appelle-t-on les divinités de la mort ? (Shinigami)
+	2.	Description de FromSoftware.  (Créée en 1986, entreprise de jeux vidéos, 
+	3.	
 	4.
 	5.
 	6.
@@ -145,7 +154,8 @@ Disney
 	10.
 	
 Répliques de films
-	1.
+	1.	Quel est le poème récité au début d'Astérix Mission Cléopatre ?
+		(Nil, Nil, Nil, fleuve impétueux et tumulteux, tu es comme notre reine, la source de la vie)
 	2.
 	3.
 	4.
@@ -205,7 +215,7 @@ Philosophie
 	10.
 	
 Faune / Flore
-	1.
+	1. Description du tardigrade
 	2.
 	3.
 	4.
