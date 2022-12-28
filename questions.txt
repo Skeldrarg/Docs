@@ -1,4 +1,4 @@
-Italie
+Italie (10/10)
 	1.	Date de la fête nationale ? (2 Juin)
 	2.	A quelle place est-elle en terme de puissance économique ? (8ème)
 	3.	Ville la plus peuplée avec combien d'habitant (à 500 000 près) ? (Rome et 2 758 839)
@@ -10,7 +10,7 @@ Italie
 	9.	Quelle est la véritable signification du geste ? (Que se passe-t-il ? Qu'est-ce que tu dis / fais ?)
 	10.	Qui est le Père de la langue Italienne ? (Dante / Pétrarque / Boccace)
 
-Kaamelott
+Kaamelott (10/10)
 	1.	Quel dieu représente le médaillon porté par Arthur Pendragon ? (Ogma, dieu de l'éloquence)
 	2.	Qui est le roi de l'Orcanie ? (Loth)
 	3.	Quelle est la botte secrète de Karadok ? (C'est pas faux)
@@ -22,7 +22,7 @@ Kaamelott
 	9.	Quelle actrice incarne la femme de Bohort ? (Virginie Efira)
 	10.	Quel instrument de musique entend-on au début de chaque épisode de la série ? (Cor)
 	
-Biologie
+Biologie (10/10)
 	1.	Comment représente-t-on les relations de parenté entre les groupes d'êtres vivants ? (Arbre phylogénétique)
 	2.	Combien de fibres caudales possède un phage ? (6)
 	3.	En combien de domaines sont classés les êtres vivants ? (3 : bactéries, archées, eucaryotes)
@@ -37,7 +37,7 @@ Biologie
 	9.	Qui a avancé la première théorie de l'évolution du vivant ? (Jean-Baptiste Lamarck en 1809, Darwin proposera une explication scientifique 50 ans plus tard)
 	10.	Comment est appelé l'organisme dont sont issues toutes les espèces vivant actuellement sur Terre ? (LUCA ou DACU)
 	
-Mythologie grecque
+Mythologie grecque (10/10)
 	1.	Qui sont les 3 fils du titan Kronos ? (Zeus, Hadès, Poséidon)
 	2.	Quel est le châtiment de Prométhée ? (Se faire dévoré le foie chaque jour par un aigle)
 	3.	Combien y a-t-il de dieux du temps ? (Chronos, Kairos et Aion)
@@ -49,7 +49,7 @@ Mythologie grecque
 	9.	Que ne doit surtout pas faire Orphée pour libérer son épouse des enfers ? (Se retourner pour la regarder)
 	10.	Combien y a-t-il de divinités Olympiennes ? (12)
 	
-Fromage
+Fromage (10/10)
 	1.	Qu'est-ce qu'une croute fleurie ? (Moisissure qui prend la forme d'un duvet blanc)
 	2.	Qui était le principal producteur de fromage en 2019 ? (Les Etats-Unis)
 	3. 	A partir de quel lait est fabriqué le fromage à raclette, et comment doit être ce lait ? (lait cru de vache)
@@ -65,7 +65,7 @@ Fromage
 	9.	Quel est le pourcentage de matière grasse dans un fromage "triple crème" ? (75%)
 	10.	Quel est le paradoxe du gruyère ? (Plus y a de fromage, moins y a de fromage)
 	
-Gastronomie
+Gastronomie (5/10)
 	1.	Quelle pâte est utilisée lors de la préparation d'une quiche lorraine ? (pâte brisée)
 	2.	Quel est nom donné au mélange beurre + farine utilisé dans la sauce béchamel ? (roux)
 	3.	Quels légumes sont présents dans un court bouillon ? (carottes et oignon)
@@ -78,7 +78,7 @@ Gastronomie
 	9.	
 	10.	
 
-Histoire
+Histoire (6/10)
 	1.	En quel siècle a eu lieu la grande peste noire ? (XIVème)
 	2.	Quel évènment a été le déclencheur de la première guerre mondiale ? (l'assassinat du prince François-Ferdinand d'Autriche)
 	3.	Comment l'empereur Néron est mort ? (Suicide)
@@ -90,19 +90,19 @@ Histoire
 	9.
 	10.
 
-Chanson
-	1. 
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+Chansons (1/10)
+	1.	Louise Attaque
+	2.	
+	3.	
+	4.	
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Secourisme
+Secourisme (5/10)
 	1.	Que signifie l'acronyme DASRI (Déchets d'Activités de Soins à Risque Infectieux)
 	2.	Combien existe-t-il d'échelles de mesure de la douleur ?
 			(5 : verbale simple, numérique, visuelle analogique, les 6 visages, EVENDOL ou hétéroévaluation de la douleur)
@@ -117,43 +117,45 @@ Secourisme
 	9.	
 	10.	
 	
-Japon
+Japon (5/10)
 	1.	Comment appelle-t-on les divinités de la mort ? (Shinigami)
-	2.	Description de FromSoftware.  (Créée en 1986, entreprise de jeux vidéos, 
-	3.	
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+	2.	Description de FromSoftware.  (Créée en 1986, entreprise de jeux vidéos)
+	3.	Quelle est la formule de politesse utilisée pour accueillir le client dans une boutique ou un restaurant ? 			(Irrashaimase)
+	4.	Qu'est ce qui a inspiré le nom de Naruto dans le mange éponyme ?
+			(Le Narutomaki, décoration culinaire à base de pâté de poisson cuit à la vapeur,
+			de couleur blanche et présentant une spirale rose orangé à l'intérieur)
+	5.	Qui était le premier des trois unificateurs du Japon pendant la période Sengoku ? (Oba Nobunaga)
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Pop Culture
+Pop Culture (2/10)
 	1.	Dans combien de films du MCU apparait le personnage d'Iron Man ? (10)
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+	2.	Description de No Man's Sky
+	3.	
+	4.	
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Disney
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+Disney (3/10)
+	1.	En quelle année est sorti le premier classique d'animation Disney ? (1937)
+	2.	Description de la Planète au Trésor
+	3.	Combien de classiques d'animation sont sortis à ce jour ? (61)
+	4.	
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Répliques de films
+Répliques de films (1/10)
 	1.	Quel est le poème récité au début d'Astérix Mission Cléopatre ?
 		(Nil, Nil, Nil, fleuve impétueux et tumulteux, tu es comme notre reine, la source de la vie)
 	2.
@@ -214,7 +216,7 @@ Philosophie
 	9.
 	10.
 	
-Faune / Flore
+Faune / Flore (1/10)
 	1. Description du tardigrade
 	2.
 	3.
@@ -225,3 +227,5 @@ Faune / Flore
 	8.
 	9.
 	10.
+
+Total : 79 / 180
