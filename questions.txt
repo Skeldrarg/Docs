@@ -90,10 +90,10 @@ Histoire (6/10)
 	9.
 	10.
 
-Musique (2/10)
+Musique (3/10)
 	1.	Louise Attaque
 	2.	Qui est ce compositeur d'origine allemande, né en 1957, dont la carrière a commencé en temps que joueur de clavier dans le groupe The Buggles, et a continué en temps que compositeur de musique de films. (Hans Zimmer)
-	3.	Complétez ces paroles des Rita Mitsouko : "Mais c'est la mort qui t'a..." (assassinée, Martia)
+	3.	Complétez ces paroles des Rita Mitsouko : "Mais c'est la mort qui t'a ... Martia, c'est la mort qui t'a ... Martia" (assassinée, consumée)
 	4.	
 	5.	
 	6.	
@@ -136,7 +136,7 @@ Pop Culture (4/10)
 	2.	Description de No Man's Sky
 	3.	Quel film datant de 2009 se déroule dans la cité du Vatican ? (Anges & Démons)
 	4.	Quelles sont ces poupées de collection en vinyle au traits grossiers, dont les personnages de nombreuses licenses populaires, à commencer par DC Comics en 2010, sont représentés avec une très grosse tête, un tout petit corps, de grands yeux noirs et une allure simplifiée ? (Funko Pop)
-	5.	
+	5.	Quelle série télévisée sortie en 2015 d'une durée de 45 épisodes pour 4 saisons, 
 	6.	
 	7.	
 	8.	
@@ -147,7 +147,7 @@ Disney (3/10)
 	1.	En quelle année est sorti le premier classique d'animation Disney ? (1937)
 	2.	Description de la Planète au Trésor
 	3.	Combien de classiques d'animation sont sortis à ce jour ? (61)
-	4.	
+	4.	Comment s'appelle le Juge dans le Bossu de Notre Dame ? (Frolo)
 	5.	
 	6.	
 	7.	
@@ -186,7 +186,8 @@ Philosophie (4/10)
 	
 Géographie (1/10)
 	1.	Quelle est la capitale de la Slovénie ? (Ljubljana)
-	2.	
+	2.	Combien y a-t-il de pays en Amérique du Sud ?
+			(14 : Argentine, Bolivie, Brésil, Chili, Colombie, Equateur, Guyane, Guyana, Paraguay, Pérou, Îles Malouines, Suriname, Uruguay, Vénézuela)  
 	3.	
 	4.	
 	5.	
@@ -196,9 +197,9 @@ Géographie (1/10)
 	9.	
 	10.	
 	
-Faune / Flore (1/10)
+Faune / Flore (2/10)
 	1.	Description du tardigrade
-	2.	
+	2.	Quelle est la plus grande fleur du monde ? (Rafflésie ou Rafflésia)
 	3.
 	4.
 	5.
