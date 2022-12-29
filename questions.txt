@@ -6,7 +6,7 @@ Italie (10/10)
 	5.	Comment s'appelle la sculpture ressemblant à un visage muré dans l'église Santa Maria in Cosmedin à Rome ? (Bocca della Verità [Bouche de la vérité])
 	6.	Qui était le fondateur du fascisme ? (Mussolini)
 	7.	Comment s'appellent les barques véniciennes ? (gondoles)
-	8.	Quel film datant de 2009 se déroule dans la cité du Vatican ? (Anges & Démons)
+	8.	Comment s'appelle le genre cinématographique italien situé à la frontière de l'horreur, du policier et de l'érotisme ? (Giallo)
 	9.	Quelle est la véritable signification du geste ? (Que se passe-t-il ? Qu'est-ce que tu dis / fais ?)
 	10.	Qui est le Père de la langue Italienne ? (Dante / Pétrarque / Boccace)
 
@@ -56,23 +56,23 @@ Fromage (10/10)
 	4.	De quel pays est originaire le cheddar ? (Angleterre)
 	5.	Quel est le fromage français le plus cher ? (Epoisses à 45 à 50€ le kilo) 
 	6.	Donnez un exemple de fromage à pâte molle et à croûte lavée. 
-			(Aisy cendré, Ami du Chambertin, Arrigny, Boulette d'Avesnes, Chamberat fermier, Cœur d'Arras; Curé nantais, Dauphin, Époisses (AOP), 
+			(Aisy cendré, Ami du Chambertin, Arrigny, Boulette d'Avesnes, Chamberat fermier, Cœur d'Arras, Curé nantais, Dauphin, Époisses (AOP), 
 			Fromage de Herve (AOP), Géromé, Grataron du Beaufortain, Kénogami, Langres fermier (AOC), Livarot (AOC), Maroilles (AOC), 
-			Mont d'Or (Vacherin Mont-d'Or en Suisse et Vacherin du Haut Doubs (AOC) en France), Munster (AOC), Niolo, Pavé d'Auge, Petit Gaugry, Pied-De-Vent, 
+			Mont d'Or (Vacherin Mont-d'Or en Suisse et Vacherin du Haut Doubs (AOC) en France), Munster (AOC), Niolo, Pavé d'Auge, Petit Gaugry, Pied-De-Vent,
 			Pont-l'évêque (AOC), Rollot, Rouy, Soumaintrain, Taleggio, Trou du Cru, Vieux-lille)
 	7.	Quel genre de fromage faut-il ajouter à la béchamel pour en faire de la sauce Mornay ? (Fromage à pâte dure rapé)
 	8.	Quelle est la particularité du fromage Sarde, Casu martzu ? (Affinage achevé grâce à l'introduction de larves de mouches du fromage)
 	9.	Quel est le pourcentage de matière grasse dans un fromage "triple crème" ? (75%)
 	10.	Quel est le paradoxe du gruyère ? (Plus y a de fromage, moins y a de fromage)
 	
-Gastronomie (5/10)
+Gastronomie (6/10)
 	1.	Quelle pâte est utilisée lors de la préparation d'une quiche lorraine ? (pâte brisée)
 	2.	Quel est nom donné au mélange beurre + farine utilisé dans la sauce béchamel ? (roux)
 	3.	Quels légumes sont présents dans un court bouillon ? (carottes et oignon)
 	4.	Donnez 2 élements principaux du "Full Breakfast". 
 			(oeufs, bacon, toasts, haricots blancs à la sauce tomate, galette de pomme de terre, champignons et boudin noir)
 	5.	Dans quel pays a été inventé le chicken tikka massala (Royaume-Uni, dans un restaurant indien de Glasgow)
-	6.	
+	6.	Quelle plante est utilisée pour aromatiser le pastis ? (l'Anis)
 	7.	
 	8.	
 	9.	
@@ -90,9 +90,9 @@ Histoire (6/10)
 	9.
 	10.
 
-Chansons (1/10)
+Chansons (2/10)
 	1.	Louise Attaque
-	2.	
+	2.	Qui est ce compositeur d'origine allemande, né en 1957, dont la carrière a commencé en temps que joueur de clavier dans le groupe The Buggles, et a continué en temps que compositeur de musique de films. (Hans Zimmer)
 	3.	
 	4.	
 	5.	
@@ -120,8 +120,8 @@ Secourisme (5/10)
 Japon (5/10)
 	1.	Comment appelle-t-on les divinités de la mort ? (Shinigami)
 	2.	Description de FromSoftware.  (Créée en 1986, entreprise de jeux vidéos)
-	3.	Quelle est la formule de politesse utilisée pour accueillir le client dans une boutique ou un restaurant ? 			(Irrashaimase)
-	4.	Qu'est ce qui a inspiré le nom de Naruto dans le mange éponyme ?
+	3.	Quelle est la formule de politesse utilisée pour accueillir le client dans une boutique ou un restaurant ? (Irrashaimase)
+	4.	Qu'est ce qui a inspiré le nom de Naruto dans le manga éponyme ?
 			(Le Narutomaki, décoration culinaire à base de pâté de poisson cuit à la vapeur,
 			de couleur blanche et présentant une spirale rose orangé à l'intérieur)
 	5.	Qui était le premier des trois unificateurs du Japon pendant la période Sengoku ? (Oba Nobunaga)
@@ -131,11 +131,11 @@ Japon (5/10)
 	9.	
 	10.	
 	
-Pop Culture (2/10)
+Pop Culture (4/10)
 	1.	Dans combien de films du MCU apparait le personnage d'Iron Man ? (10)
 	2.	Description de No Man's Sky
-	3.	
-	4.	
+	3.	Quel film datant de 2009 se déroule dans la cité du Vatican ? (Anges & Démons)
+	4.	Quelles sont ces poupées de collection en vinyle au traits grossiers, dont les personnages de nombreuses licenses populaires, à commencer par DC Comics en 2010, sont représentés avec une très grosse tête, un tout petit corps, de grands yeux noirs et une allure simplifiée ? (Funko Pop)
 	5.	
 	6.	
 	7.	
@@ -155,70 +155,50 @@ Disney (3/10)
 	9.	
 	10.	
 	
-Répliques de films (1/10)
+Répliques de films (6/10)
 	1.	Quel est le poème récité au début d'Astérix Mission Cléopatre ?
 		(Nil, Nil, Nil, fleuve impétueux et tumulteux, tu es comme notre reine, la source de la vie)
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+	2.	Que dit Amonbofis lorsqu'il interpèle Numérobis avant leur combat ? (Prépare ton sarcophage)
+	3.	Que dit la fille de Barbe-rousse à un pirate avant de se faire reprendre par son père ? (Souquez les artimuses)
+	4.	Quel personnage historique est cité dans le dialogue des deux inconnus à qui Astérix emprunte un char ? (Imhotep)
+	5.	Quel prénom la tribu des cheveux propres n'arrive pas à prononcer ? (Gui)
+	6.	Quel est la dernière phrase du monologue d'introduction de RRRrrrr ? (Ce film ne raconte pas leur histoire)
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Logistique
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+Philosophie (4/10)
+	1.	Quelle est cette célèbre expérience de pensée créée par Platon ? 
+			(Allégorie de la caverne, dans laquelle des hommes sont enfermés dans une caverne,
+			tournent le dos à l'entrée, et ne voient que l'ombre d'objets projetés contre le mur.)
+	2.	Qui a écrit "Dieu est mort" ? (Friedrich Nietzsche)
+	3.	Quel philosophe est le plus célèbre représentant du cynisme ? (Diogène de Sinope)
+	4.	Donnez 2 philosophes français. 
+			(René Descartes, Jean-Paul Sartre, Blaise Pascal, Jean-Jacques Rousseau, Auguste Comte, Henri Bergson,
+			Simon De Beauvoir, Voltaire)
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
-Système Hospitalier
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
-	
-Gestion de projet
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
-	
-Philosophie
-	1.
-	2.
-	3.
-	4.
-	5.
-	6.
-	7.
-	8.
-	9.
-	10.
+Géographie (1/10)
+	1.	Quelle est la capitale de la Slovénie ? (Ljubljana)
+	2.	
+	3.	
+	4.	
+	5.	
+	6.	
+	7.	
+	8.	
+	9.	
+	10.	
 	
 Faune / Flore (1/10)
-	1. Description du tardigrade
-	2.
+	1.	Description du tardigrade
+	2.	
 	3.
 	4.
 	5.
@@ -227,5 +207,29 @@ Faune / Flore (1/10)
 	8.
 	9.
 	10.
+	
+Internet (4/10)
+	1.	Qui est le premier Youtubeur de France ? (SQUEEZIE)
+	2.	Quelle loi empirique dit "Plus une discussion en ligne se prolonge, plus la probabilité d'y trouver une comparaison impliquant les nazis ou Adolf Hitler s'approche de 1." (Loi de Godwin)
+	3.	Qu'est ce qui consiste en une image ou une vidéo qui, associée à un texte humoristique, se transmet comme un phénomène viral par les réseaux sociaux et se répand rapidement sur Internet ? (Un mème)
+	4.	En quelle année a été atteint la barre du milliard de sites web en ligne ? (2014)
+	5.
+	6.
+	7.
+	8.
+	9.
+	10.
+	
+Pokémon (7/10)
+	1.	Qui est le numéro 151 du pokédex national ? (Mew)
+	2.	Quel est le seul pokémon a être doté du double-type Feu-Eau (Volcanion)
+	3.	Quel pokémon est surnommé le Dieu de la Destruction ? (Léviator)
+	4.	De quelle région provient le starter eau Gobou ? (Hoenn)
+	5.	Depuis la sortie de la neuvième génération, combien y a-t-il d'espèces de Pokémons ? (1008)
+	6.	A quel animal ressemble Dedenne (pokémon electrik-fée de la 6ème Gen) ? (Un Hamster ou une souris)
+	7.	Quel Pokémon est responsable de la création du tier stratégique AnythingGoes ? (Méga Rayquaza)
+	8.	
+	9.	
+	10.	
 
-Total : 79 / 180
+Total : 104 / 170
