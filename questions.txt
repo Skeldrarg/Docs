@@ -90,11 +90,11 @@ Histoire (6/10)
 	9.
 	10.
 
-Musique (3/10)
-	1.	Louise Attaque
+Musique (4/10)
+	1.	Comment s'appelle le chanteur et membre fondateur du groupe Louise Attaque ? (Gaëtan Roussel)
 	2.	Qui est ce compositeur d'origine allemande, né en 1957, dont la carrière a commencé en temps que joueur de clavier dans le groupe The Buggles, et a continué en temps que compositeur de musique de films. (Hans Zimmer)
 	3.	Complétez ces paroles des Rita Mitsouko : "Mais c'est la mort qui t'a ... Martia, c'est la mort qui t'a ... Martia" (assassinée, consumée)
-	4.	
+	4.	Quel groupe de musique créé dans les années 90, a participé à la création et la démocratisation du mouvement french touch ? (Daft Punk)
 	5.	
 	6.	
 	7.	
@@ -131,25 +131,25 @@ Japon (5/10)
 	9.	
 	10.	
 	
-Pop Culture (4/10)
+Pop Culture (7/10)
 	1.	Dans combien de films du MCU apparait le personnage d'Iron Man ? (10)
-	2.	Description de No Man's Sky
+	2.	Description de No Man's Sky (sorti en 2016, jeu de sf, bac à sable, développé et édité par Hello Games, [détails sur le gameplay])
 	3.	Quel film datant de 2009 se déroule dans la cité du Vatican ? (Anges & Démons)
 	4.	Quelles sont ces poupées de collection en vinyle au traits grossiers, dont les personnages de nombreuses licenses populaires, à commencer par DC Comics en 2010, sont représentés avec une très grosse tête, un tout petit corps, de grands yeux noirs et une allure simplifiée ? (Funko Pop)
-	5.	Quelle série télévisée sortie en 2015 d'une durée de 45 épisodes pour 4 saisons, 
-	6.	
-	7.	
+	5.	Quelle série télévisée sortie en 2015 d'une durée de 45 épisodes pour 4 saisons, met en scène un hacker atteint de phobie sociale ? (Mr Robot)
+	6.	Comment s'appelle le comédien de doublage du personnage de Titeuf ? (Donald Reignoux)
+	7.	Le seigneur des anneaux mal pitché
 	8.	
 	9.	
 	10.	
 	
-Disney (3/10)
+Disney (6/10)
 	1.	En quelle année est sorti le premier classique d'animation Disney ? (1937)
 	2.	Description de la Planète au Trésor
 	3.	Combien de classiques d'animation sont sortis à ce jour ? (61)
 	4.	Comment s'appelle le Juge dans le Bossu de Notre Dame ? (Frolo)
-	5.	
-	6.	
+	5.	Comment s'appelle l'étoile de mer dans le monde de Némo ? (Astrid / Peach)
+	6.	En quelle année est sorti Le Roi Lion (1994)
 	7.	
 	8.	
 	9.	
@@ -184,37 +184,44 @@ Philosophie (4/10)
 	9.	
 	10.	
 	
-Géographie (1/10)
-	1.	Quelle est la capitale de la Slovénie ? (Ljubljana)
+Géographie (5/10)
+	1.	Quelle est la capitale du Sri Lanka ? (Sri Jayawardenapurra Kotte)
 	2.	Combien y a-t-il de pays en Amérique du Sud ?
 			(14 : Argentine, Bolivie, Brésil, Chili, Colombie, Equateur, Guyane, Guyana, Paraguay, Pérou, Îles Malouines, Suriname, Uruguay, Vénézuela)  
-	3.	
-	4.	
-	5.	
+	3.	Quel est le pays le plus peuplé du monde ? (Chine)
+	4.	Où se situe le lac le plus profond du monde ? (Sibérie, le lac Baïkal avec 1642 m)
+	5.	Quel est le plus au sommet d'Afrique ? (Kilimandjaro avec 5891 m)
 	6.	
 	7.	
 	8.	
 	9.	
 	10.	
 	
-Faune / Flore (2/10)
+Faune / Flore (4/10)
 	1.	Description du tardigrade
+			(entre 0.1 et 1.5mm, 8 pâtes griffues, présents partout sur Terre, en particulier dans les forêts ou l'on trouve de la mousse
+			et des lichens qui consituent leur aliment de prédilection, résistant au vide, à une pression jusqu'à 1200 atms,
+			aux radiations extrêmes (+ de 1100 fois ce qu'un humain peut endurer), à des temperatures proches du 0 absolu)
 	2.	Quelle est la plus grande fleur du monde ? (Rafflésie ou Rafflésia)
-	3.
-	4.
-	5.
+	3.	A quel ordre appartiennent les chats ? (Carnivores)
+	4.	Comment se reproduit le Cordyceps unilateralis ?
+			(Parasitisme en infectant des fourmis et en modifiant leur comportement, en les forçant à se placer en hauteur pour favoriser
+			la pousse du champignon et ainsi en libérer les spores)
+	5.	
 	6.
 	7.
 	8.
 	9.
 	10.
 	
-Internet (4/10)
-	1.	Qui est le premier Youtubeur de France ? (SQUEEZIE)
-	2.	Quelle loi empirique dit "Plus une discussion en ligne se prolonge, plus la probabilité d'y trouver une comparaison impliquant les nazis ou Adolf Hitler s'approche de 1." (Loi de Godwin)
-	3.	Qu'est ce qui consiste en une image ou une vidéo qui, associée à un texte humoristique, se transmet comme un phénomène viral par les réseaux sociaux et se répand rapidement sur Internet ? (Un mème)
-	4.	En quelle année a été atteint la barre du milliard de sites web en ligne ? (2014)
-	5.
+Internet (5/10)
+	1.	Quelle loi empirique dit "Plus une discussion en ligne se prolonge, plus la probabilité d'y trouver une comparaison impliquant les nazis ou
+			Adolf Hitler s'approche de 1." (Loi de Godwin)
+	2.	Qu'est ce qui consiste en une image ou une vidéo qui, associée à un texte humoristique, se transmet comme un phénomène viral par les réseaux sociaux
+			et se répand rapidement sur Internet ? (Un mème)
+	3.	En quelle année a été atteint la barre du milliard de sites web en ligne ? (2014)
+	4.	Quel est le mème créé en 2011 par Christopher Torres, consistant en un git de petit animal coloré volant ? (NyanCat)
+	5.	Quelle est cette web emission active entre 2012 et 2015, inspirée du travail du vidéaste Ray William Johnson ? (WTC)
 	6.
 	7.
 	8.
@@ -233,4 +240,4 @@ Pokémon (7/10)
 	9.	
 	10.	
 
-Total : 104 / 170
+Total : 120 / 170
